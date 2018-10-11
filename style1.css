@@ -1,0 +1,47 @@
+body{background-color:black;}
+
+.container{background-color: gray;}
+
+h1{ color: white;
+	padding: 30px 0px 30px 7px;
+	 }
+
+h5{color: white;
+text-align: center;
+padding-top: 5px;}
+
+p{color:gray;
+text-align: center;
+padding-top: 10px;}
+
+.table_style{background-color: black;
+		border-style: solid;
+		border-color: gray;
+		border-width: 5px;
+		border-bottom-color: yellow;
+		float:left;
+
+}
+.nd_head{background-color: black;
+border-style: solid;
+border-color: gray;
+border-width: 5px;
+border-bottom-color: yellow;
+}
+
+.add_style {border-style: solid;
+	border-color:white;
+	border: 10px;
+}
+
+.btn-block {
+	padding: 10px 40px;
+	font-size: 20px;
+	border-style:solid;
+	border-color: white;
+	}
+
+.skaicius{font-size:40px;
+color:yellow;
+
+}
